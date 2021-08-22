@@ -4,4 +4,4 @@
 ---             |:---:                                                             |---
 Python基本操作   |[Unit01](https://github.com/Yicheng-1218/IMLP/tree/main/Unit01)   |完成
 套件操作方法     |[Unit02](https://github.com/Yicheng-1218/IMLP/tree/main/Unit02)   |補上seaborn練習
-機器學習概念     |[Unit03](https://github.com/Yicheng-1218/IMLP/tree/main/Unit03)   |初始上傳
+機器學習概念     |[Unit03](https://github.com/Yicheng-1218/IMLP/tree/main/Unit03)   |上傳練習
