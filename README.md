@@ -7,4 +7,4 @@ Python基本操作   |[Unit01](https://github.com/Yicheng-1218/IMLP/tree/main/Un
 機器學習概念     |[Unit03](https://github.com/Yicheng-1218/IMLP/tree/main/Unit03)   |完成
 線性回歸         |[Unit04](https://github.com/Yicheng-1218/IMLP/tree/main/Unit04)   |完成
 監督式學習       |[Unit05](https://github.com/Yicheng-1218/IMLP/tree/main/Unit05)   |完成
-集成學習         |[Unit06](https://github.com/Yicheng-1218/IMLP/tree/main/Unit06)   |初始上傳
+集成學習         |[Unit06](https://github.com/Yicheng-1218/IMLP/tree/main/Unit06)   |上傳練習
