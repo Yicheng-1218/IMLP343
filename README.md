@@ -8,5 +8,5 @@ Python基本操作   |[Unit01](https://github.com/Yicheng-1218/IMLP/tree/main/Un
 線性回歸         |[Unit04](https://github.com/Yicheng-1218/IMLP/tree/main/Unit04)   |完成
 監督式學習       |[Unit05](https://github.com/Yicheng-1218/IMLP/tree/main/Unit05)   |完成
 集成學習         |[Unit06](https://github.com/Yicheng-1218/IMLP/tree/main/Unit06)   |完成
-非監督式學習     |[Unit07](https://github.com/Yicheng-1218/IMLP/tree/main/Unit07)   |上傳練習
-降維            |[Unit08](https://github.com/Yicheng-1218/IMLP/tree/main/Unit08)   |上傳練習
+非監督式學習     |[Unit07](https://github.com/Yicheng-1218/IMLP/tree/main/Unit07)   |完成
+降維            |[Unit08](https://github.com/Yicheng-1218/IMLP/tree/main/Unit08)   |完成
