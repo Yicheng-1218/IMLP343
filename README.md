@@ -1,12 +1,25 @@
-# IMLP343
-### Python Machine Learning<br>
-標題             |連結                                                              |狀態
----             |:---:                                                             |---
-Python基本操作   |[Unit01](https://github.com/Yicheng-1218/IMLP/tree/main/Unit01)   |完成
-套件操作方法     |[Unit02](https://github.com/Yicheng-1218/IMLP/tree/main/Unit02)   |完成
-機器學習概念     |[Unit03](https://github.com/Yicheng-1218/IMLP/tree/main/Unit03)   |完成
-線性回歸         |[Unit04](https://github.com/Yicheng-1218/IMLP/tree/main/Unit04)   |完成
-監督式學習       |[Unit05](https://github.com/Yicheng-1218/IMLP/tree/main/Unit05)   |完成
-集成學習         |[Unit06](https://github.com/Yicheng-1218/IMLP/tree/main/Unit06)   |完成
-非監督式學習     |[Unit07](https://github.com/Yicheng-1218/IMLP/tree/main/Unit07)   |完成
-降維            |[Unit08](https://github.com/Yicheng-1218/IMLP/tree/main/Unit08)   |完成
+# PyLearnML
+
+## Overview
+**PyLearnML** is a comprehensive repository designed to help users learn and implement machine learning concepts using Python. This repository includes a series of tutorials and code examples that cover fundamental and advanced topics in machine learning.
+
+## Contents
+- **Unit 01: Python Basics**
+  - Basic Python operations and syntax.
+- **Unit 02: Package Operations**
+  - Methods to handle various Python packages.
+- **Unit 03: Machine Learning Concepts**
+  - Introduction to key machine learning concepts.
+- **Unit 04: Linear Regression**
+  - Detailed examples and explanations of linear regression.
+- **Unit 05: Supervised Learning**
+  - Techniques and algorithms used in supervised learning.
+- **Unit 06: Ensemble Learning**
+  - Methods and benefits of ensemble learning.
+- **Unit 07: Unsupervised Learning**
+  - Algorithms and use cases for unsupervised learning.
+- **Unit 08: Dimensionality Reduction**
+  - Techniques to reduce data dimensions while preserving information.
+
+
+
