@@ -1,7 +1,7 @@
 # PyLearnML
 
 ## Overview
-**PyLearnML** is a comprehensive repository designed to help users learn and implement machine learning concepts using Python. This repository includes a series of tutorials and code examples that cover fundamental and advanced topics in machine learning.
+**PyLearnML** is a comprehensive repository documenting my participation in a machine learning (ML) course. This repository includes hands-on code examples and visualizations for various ML topics, demonstrating the process of building and analyzing machine learning models.
 
 ## Contents
 - **Unit 01: Python Basics**
